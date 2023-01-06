@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<!DOCTYPE html>
+<html>
+<title>Pizza</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+</style>
+<body>
+<!-- Start Content -->
+<div id="home" class="w3-content">
+
+<!-- Navbar (Sits on top) -->
+<div class="w3-top w3-bar w3-xlarge w3-black w3-opacity-min">
+<a href="entretenimento.html" class="w3-bar-item w3-button">Ìnicio</a>
+<a href="#menu" class="w3-bar-item w3-button">Entreterimento</a>
+<a href="#about" class="w3-bar-item w3-button">Sobre</a>
+<a href="#contact" class="w3-bar-item w3-button">Contato</a>
+</div>
+
+<!-- Header image -->
+<div style="height:800px;background-image:url(https://siteshopping.crmall.com/api/Image/SWppMG9OUWpNdXBKczI4YkxQWVBGelA3MmZhMmswdXh5dllGU3JWTlc0a0pESkpWM3kzTEdOZ2tadUFQQXhZVw==);background-size:cover" class="w3-display-container w3-grayscale-min">
+<div class="w3-display-bottomleft">
+<span class="w3-tag w3-xlarge">Sobral Diário</span>
+</div>
+<div class="w3-display-middle w3-center">
+<span class="w3-text-white" style="font-size:100px">Bem Vindo a Sobral</span>
+<p><a href="#menu" class="w3-button w3-xxlarge w3-black">Saiba Mais</a></p>
+</div>
+
+</div>
+</body>
+</html>
