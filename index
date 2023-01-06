@@ -18,8 +18,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 
 <!-- Navbar (Sits on top) -->
 <div class="w3-top w3-bar w3-xlarge w3-black w3-opacity-min">
-<a href="entretenimento.html" class="w3-bar-item w3-button">Ìnicio</a>
-<a href="#menu" class="w3-bar-item w3-button">Entreterimento</a>
+<a href="#menu" class="w3-bar-item w3-button">Ìnicio</a>
+<a href="entretenimento.html" class="w3-bar-item w3-button">Entreterimento</a>
 <a href="#about" class="w3-bar-item w3-button">Sobre</a>
 <a href="#contact" class="w3-bar-item w3-button">Contato</a>
 </div>
